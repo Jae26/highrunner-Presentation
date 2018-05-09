@@ -228,7 +228,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 36.083557, y: -31.439543}
+  m_AnchoredPosition: {x: 155.6, y: -217.1}
   m_SizeDelta: {x: 210.9, y: 42.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &530581920
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.26719084, g: 0.3455882, b: 0.043198526, a: 1}
+  m_Color: {r: 0.019607844, g: 0.47058824, b: 0.54901963, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -471,7 +471,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 36.083557, y: 23.983215}
+  m_AnchoredPosition: {x: 54.6, y: 71.7}
   m_SizeDelta: {x: 210.9, y: 42.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1287340719
@@ -538,7 +538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.26719084, g: 0.3455882, b: 0.043198526, a: 1}
+  m_Color: {r: 0.019607844, g: 0.47058827, b: 0.54901963, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -613,7 +613,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 31c6e51c53a480d4f9ac20b50924b08c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4554dd75304d54ecbabf0ae8ce91c36f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -820,7 +820,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 36.083557, y: 166.56381}
+  m_AnchoredPosition: {x: 52.1, y: 166.56381}
   m_SizeDelta: {x: 679.7, y: 215.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1729625682
@@ -1186,7 +1186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.29426086, g: 0.43382353, b: 0.26794982, a: 0.392}
+  m_Color: {r: 0.019607844, g: 0.47058824, b: 0.54901963, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
